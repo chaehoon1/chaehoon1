@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
-# baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cchh1120)](https://solved.ac/cchh1120/)
 
 
 
